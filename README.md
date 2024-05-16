@@ -1,7 +1,4 @@
 -  Hi, I’m Joshua but you can call me Afi
--  I'm into voice acting and photography
--  I’m currently learning on craeting more dynamic and advanced websites
--  I’m looking to collaborate on front-end development
 -  How to reach me:
 -                    Gmail: aficial.joshua.b@gmail.com 
 -                    Instgram: @josh_afi
