@@ -1,4 +1,4 @@
--  Hi, I’m Joshua but you can call me Afi
+-  Ello
 -  How to reach me:
 -                    Gmail: aficial.joshua.b@gmail.com 
 -                    Instgram: @josh_afi
